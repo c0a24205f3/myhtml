@@ -13,3 +13,6 @@ h2{
     background-color: orange;
     color: white;
 }
+body{
+    background-image: url(bg.png);
+}
